@@ -11,7 +11,9 @@ public class Queue {
 		size = 20;
 		setQueue(new int[size]);
 	}
-	public void thisIsANewMethod() { }
+	public void thisIsANewMethod() {
+		// Eat spaghetti to forgetti the regretti.
+ }
 
 	/** Constructor initializes queue with the given size. */
 	public Queue(int size) {
