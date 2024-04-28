@@ -13,6 +13,7 @@ public class Queue {
 	}
 	public void thisIsANewMethod() {
 		// Eat spaghetti to forgetti the regretti.
+		// hagebuttentee
  }
 
 	/** Constructor initializes queue with the given size. */
