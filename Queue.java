@@ -20,8 +20,10 @@ public class Queue {
 		elements = 0;
 		this.size = size;
 		setQueue(new int[size]);
+		system.out.print("This is a stupid message, ignore or die!");
 	}
-
+	
+	
 	/**
 	 * Copy constructor initializes queue with another queue. This constructor must
 	 * COPY all elements of the other queue. The elements of the other queue must
