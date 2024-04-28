@@ -11,12 +11,12 @@ public class Queue {
 		size = 20;
 		setQueue(new int[size]);
 	}
-HEAD
+
 	public void thisIsANewMethod() {Sytem.out.print("Please kill me");
 	Eat spaghetti to forgetti the regretti.
-	Sytem.out.print("Please kill me NOW")}
-
-7dab0b39b39d2403cb5dac3e4297f1e650a238b7
+	Sytem.out.print("Please kill me NOW")
+	Sytem.out.print(":(")
+}
 
 	/** Constructor initializes queue with the given size. */
 	public Queue(int size) {
