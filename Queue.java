@@ -13,9 +13,9 @@ public class Queue {
 	}
 
 	public void thisIsANewMethod() {Sytem.out.print("Please kill me");
-	Eat spaghetti to forgetti the regretti.
-	Sytem.out.print("Please kill me NOW")
-	Sytem.out.print(":(")
+		// Eat spaghetti to forgetti the regretti.
+		// hagebuttentee	Sytem.out.print("Please kill me NOW")
+		Sytem.out.print(":(")
 }
 
 	/** Constructor initializes queue with the given size. */
