@@ -13,7 +13,8 @@ public class Queue {
 	}
 HEAD
 	public void thisIsANewMethod() {Sytem.out.print("Please kill me");
-	Eat spaghetti to forgetti the regretti.}
+	Eat spaghetti to forgetti the regretti.
+	Sytem.out.print("Please kill me NOW")}
 
 7dab0b39b39d2403cb5dac3e4297f1e650a238b7
 
